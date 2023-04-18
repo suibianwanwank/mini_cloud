@@ -1,0 +1,6 @@
+#spring:
+#  cloud:
+#    sentinel:
+#      enabled: true
+#      transport:
+#        dashboard: 127.0.0.1:11080
